@@ -1,0 +1,15 @@
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.csproj.AssemblyReference.cache
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.AssemblyInfoInputs.cache
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.AssemblyInfo.cs
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.csproj.CoreCompileInputs.cache
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\bin\Debug\net5.0\IUploader-Appilication.deps.json
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\bin\Debug\net5.0\IUploader-Appilication.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\bin\Debug\net5.0\ref\IUploader-Appilication.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\bin\Debug\net5.0\IUploader-Appilication.pdb
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\bin\Debug\net5.0\IUploader-Domain.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\bin\Debug\net5.0\IUploader-Domain.pdb
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.csproj.CopyComplete
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\ref\IUploader-Appilication.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Application\obj\Debug\net5.0\IUploader-Appilication.pdb

@@ -1,0 +1,14 @@
+﻿using IUploader_Appilication.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IUploader_Appilication.Interfaces
+{
+    public interface IPersonIdentityService
+    {
+        Task<List<PersonalIdentityModel>> GetPersons();
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe3a636f-d405-419a-9839-192ff2696839": {
+      "ProjectGuid": "fe3a636f-d405-419a-9839-192ff2696839",
+      "DisplayName": "IUploader-Infrastructure",
+      "ColorIndex": 0
+    },
+    "ce205cfa-4013-4d37-a8cb-83e83e5d625f": {
+      "ProjectGuid": "ce205cfa-4013-4d37-a8cb-83e83e5d625f",
+      "DisplayName": "IUploader-Api",
+      "ColorIndex": 1
+    },
+    "d4e6e1bc-8221-4d84-83bf-1b877e3627fc": {
+      "ProjectGuid": "d4e6e1bc-8221-4d84-83bf-1b877e3627fc",
+      "DisplayName": "IUploader-Domain",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

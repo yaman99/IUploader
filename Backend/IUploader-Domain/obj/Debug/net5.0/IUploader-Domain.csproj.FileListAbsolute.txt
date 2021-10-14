@@ -1,0 +1,12 @@
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\bin\Debug\net5.0\IUploader-Domain.deps.json
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\bin\Debug\net5.0\IUploader-Domain.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\bin\Debug\net5.0\ref\IUploader-Domain.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\bin\Debug\net5.0\IUploader-Domain.pdb
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.csproj.AssemblyReference.cache
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.AssemblyInfoInputs.cache
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.AssemblyInfo.cs
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.csproj.CoreCompileInputs.cache
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\ref\IUploader-Domain.dll
+C:\Work Repos C-Drive\IUploader\Backend\IUploader-Domain\obj\Debug\net5.0\IUploader-Domain.pdb
